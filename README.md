@@ -17,25 +17,25 @@ In addition, I'm a founding member of Industry Technology inc, where I serve as 
 I have also served as a technical advisor for several companies on the side, helping to solve business and technical problems from multiple perspectives.
 
 ## Experience
-- Algomacit inc.
-  - Side, Technical Advisor for STUDIO 100X division \| 2023/08 - now
+- Algomacit inc. \| 2023/08 - now
+  - Side, Technical Advisor for STUDIO 100X division
 - Industry Technology inc. \| 2019/04 - now
   - Co-Founder, CTO
-    - SaaS for building management companies \| 2019/04 - now
+    - SaaS for building management companies 
       - Next.js, TypeScript, Go, AWS, gRPC
-    - Mobile application for building management companies \| 2022/01 - now
+    - Mobile application for building management companies
       - React Native, Expo, TypeScript
-    - Reinforcement inspection system for construction companies using hololenz \| 
+    - Reinforcement inspection system for construction companies using hololenz
       - Python, OpenCV, Unity, C#
-- Gunosy inc. \| 2019/04 - 2021/12
-  - Data Analyst, Digital Marketer \| 2018/04 - 2019/06
+- Gunosy inc. \| 2018/04 - 2019/06
+  - Data Analyst, Digital Marketer
     - Launch of a media mobile application
       - SQL, Python
-- ZUU inc.
-  - Intern, Backend Engineer \| 2018/01 - 2018/03
+- ZUU inc. \| 2018/01 - 2018/03
+  - Intern, Backend Engineer 
     - Internal system
       - Go, Docker
-      - 
+        
 ## Education
 - The University of Tokyo
   - Bachelor of Engineering \| 2014/04 - 2018/03
