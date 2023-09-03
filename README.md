@@ -1,9 +1,20 @@
 # Soma Utsumi
-- Software Engineer
-- soma03432303@gmail.com
+Software Engineer, Architect
+- [mail](soma03432303@gmail.com)
+- [facebook](https://www.facebook.com/soma.utsumi)
+- [X](https://twitter.com/soma00333)
+- [linkedin](https://www.linkedin.com/in/soma-utsumi-278a87178/)
+- [github](https://github.com/soma00333)
+- [offers]( https://offers.jp/pub/w/JrwUBEQsSRUW6XkLjg46jTKt)
 
 ## Summary 
-CTOとして広い範囲を見ているため、技術顧問としてさまざまな視点からお手伝いできると自負しています。実務としては、フロントエンド開発（TypeScript、React、Next.js）、バックエンド開発（Go）、モバイル開発（React Native、Expo）においてリードすることができます。
+During my student days, I had internships at several startups, where I honed my practical technical skills and business acumen.
+
+Later, after graduating from the University of Tokyo with a Bachelor of Engineering degree, I was involved in the launch of a new business at Gunosy inc.
+
+In addition, I'm a founding member of Industry Technology inc, where I serve as CTO. Here I'm driving the development of the SaaS product and providing technical leadership.
+
+I have also served as a technical advisor for several companies on the side, helping to solve business and technical problems from multiple perspectives.
 
 ## Experience
 - Algomacit inc.
@@ -48,7 +59,7 @@ CTOとして広い範囲を見ているため、技術顧問としてさまざ�
 - Experience in building user data analysis infrastructure
 - Experience in growing a toC application
 
-## Language/Framework
+## Programming Language/Framework
 - Web
   - Next.js
   - React
@@ -73,7 +84,9 @@ CTOとして広い範囲を見ているため、技術顧問としてさまざ�
   - Auth0
   - Vercel
 
-
+## Language
+- Japanese (native)
+- English (business)
 
 
 
