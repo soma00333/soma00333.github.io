@@ -37,27 +37,27 @@ I have also served as a technical advisor for several companies on the side, hel
       - Go, Docker
         
 ## Education
-- The University of Tokyo
-  - Bachelor of Engineering \| 2014/04 - 2018/03
+- The University of Tokyo \| 2014/04 - 2018/03
+  - Bachelor of Engineering
     - Design of a preoperative evaluation system for elderly patients using a generalized linear model
       - R, Python
   
 ## Skills
-- Experience in overall design and development management of SaaS products
-- Experience in designing development organizations and creating recruitment strategies
-- Experience in front-end development using React and Next.js
-- Experience in back-end development using Go and gRPC
-- Experience in mobile development using ReactNative and Expo
-- Experience in database design using MySQL
-- Experience in selecting and verifying middleware, frameworks, and other technologies
-- Experience in continuous improvement of UI/UX
+- Overall design and development management of SaaS products
+- Designing development organizations and creating recruitment strategies
+- Front-end development using React and Next.js
+- Backend development using Go and gRPC
+- Mobile development using ReactNative and Expo
+- Database design using MySQL
+- Selecting and verifying middleware, frameworks, and other technologies
+- Continuous improvement of UI/UX
 - Experience as a tech lead or technical product manager
-- Experience in strengthening the development capabilities of an engineering organization of one pizza size
-- Experience in development and operation using cloud servers such as AWS
-- Experience in CI/CD using Github actions
+- Strengthening the development capabilities of an engineering organization
+- Development and operation using cloud servers such as AWS
+- CI/CD using Github actions
 - Experience with DevOps development
-- Experience in building user data analysis infrastructure
-- Experience in growing a toC application
+- Building user data analysis infrastructure
+- Growing a toC application
 
 ## Programming Language/Framework
 - Web
