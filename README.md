@@ -18,7 +18,7 @@ In addition, I'm a founding member of Industry Technology inc, where I serve as 
 I have also served as a technical advisor for several companies on the side, helping to solve business and technical problems from multiple perspectives.
 
 ## Experience
-- Algomacit inc. \| 2023/08 - now
+- Algomatic inc. \| 2023/08 - now
   - Side, Technical Advisor for STUDIO 100X division
 - Industry Technology inc. \| 2019/04 - now
   - Co-Founder, CTO
@@ -78,7 +78,7 @@ I have also served as a technical advisor for several companies on the side, hel
   - AWS
   - ECS
   - Lambda
-  - MySql
+  - MySQL
   - Datadog
   - Github actions
   - Autify
