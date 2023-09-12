@@ -84,6 +84,7 @@ I have also served as a technical advisor for several companies on the side, hel
   - Autify
   - Auth0
   - Vercel
+  - Terraform
 
 ## Language
 - Japanese (native)
