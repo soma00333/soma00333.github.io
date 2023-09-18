@@ -73,6 +73,7 @@ I have also served as a technical advisor for several companies on the side, hel
   - gRPC-Web
 - Backend
   - Go
+  - Node.js
   - gRPC
 - Other
   - AWS
