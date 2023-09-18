@@ -1,5 +1,5 @@
 # Soma Utsumi
-Software Engineer, Architect
+Software Engineer, SRE
 - [mail](soma03432303@gmail.com)
 - [facebook](https://www.facebook.com/soma.utsumi)
 - [X](https://twitter.com/soma00333)
