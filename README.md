@@ -11,15 +11,15 @@ Software Engineer, SRE
 ## Summary 
 During my student days, I had internships at several startups, where I honed my practical technical skills and business acumen.
 
-Later, after graduating from the University of Tokyo with a Bachelor of Engineering degree, I was involved in the launch of a new business at Gunosy inc.
+Later, after graduating from the University of Tokyo with a Bachelor of Engineering degree, I was involved in the launch of a new business at Gunosy Inc.
 
-In addition, I'm a founding member of Industry Technology inc, where I serve as CTO. Here I'm driving the development of the SaaS product and providing technical leadership.
+In addition, I'm a founding member of Industry Technology Inc, where I serve as CTO. Here I'm driving the development of the SaaS product and providing technical leadership.
 
 I have also served as a technical advisor for several companies on the side, helping to solve business and technical problems from multiple perspectives.
 
 ## Experience
 - Algomatic Inc. \| 2023/08 - now
-  - Side, MLOps for LLM STUDIO 
+  - Side, MLOps in LLM STUDIO 
 - Industry Technology Inc. \| 2019/04 - now
   - Co-Founder, CTO
     - SaaS for building management companies 
