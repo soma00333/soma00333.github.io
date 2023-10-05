@@ -19,7 +19,7 @@ I have also served as a technical advisor for several companies on the side, hel
 
 ## Experience
 - Algomatic Inc. \| 2023/08 - now
-  - Side, DevOps for LLM STUDIO 
+  - Side, MLOps for LLM STUDIO 
 - Industry Technology Inc. \| 2019/04 - now
   - Co-Founder, CTO
     - SaaS for building management companies 
