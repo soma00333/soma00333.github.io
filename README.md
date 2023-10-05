@@ -32,7 +32,7 @@ I have also served as a technical advisor for several companies on the side, hel
   - Data Analyst, Digital Marketer
     - Launch of a media mobile application
       - SQL, Python
-- ZUU Inc. \| 2018/01 - 2018/03
+- ZUU Co.,Ltd. \| 2018/01 - 2018/03
   - Intern, Backend Engineer 
     - Internal system
       - Go, Docker
