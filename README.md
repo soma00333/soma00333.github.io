@@ -18,9 +18,9 @@ In addition, I'm a founding member of Industry Technology inc, where I serve as 
 I have also served as a technical advisor for several companies on the side, helping to solve business and technical problems from multiple perspectives.
 
 ## Experience
-- Algomatic inc. \| 2023/08 - now
-  - Side, Technical Advisor for STUDIO 100X division
-- Industry Technology inc. \| 2019/04 - now
+- Algomatic Inc. \| 2023/08 - now
+  - Side, DevOps for LLM STUDIO 
+- Industry Technology Inc. \| 2019/04 - now
   - Co-Founder, CTO
     - SaaS for building management companies 
       - Next.js, TypeScript, Go, AWS, gRPC
@@ -28,11 +28,11 @@ I have also served as a technical advisor for several companies on the side, hel
       - React Native, Expo, TypeScript
     - Reinforcement inspection system for construction companies using hololenz
       - Python, OpenCV, Unity, C#
-- Gunosy inc. \| 2018/04 - 2019/06
+- Gunosy Inc. \| 2018/04 - 2019/06
   - Data Analyst, Digital Marketer
     - Launch of a media mobile application
       - SQL, Python
-- ZUU inc. \| 2018/01 - 2018/03
+- ZUU Inc. \| 2018/01 - 2018/03
   - Intern, Backend Engineer 
     - Internal system
       - Go, Docker
