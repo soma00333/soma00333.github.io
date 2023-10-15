@@ -46,7 +46,7 @@ I have also served as a technical advisor for several companies on the side, hel
 ## Skills
 - Overall design and development management of SaaS products
 - Designing development organizations and creating recruitment strategies
-- Front-end development using React and Next.js
+- Frontend development using React and Next.js
 - Backend development using Go and gRPC
 - Mobile development using ReactNative and Expo
 - Database design using MySQL
@@ -57,8 +57,12 @@ I have also served as a technical advisor for several companies on the side, hel
 - Development and operation using cloud servers such as AWS
 - CI/CD using Github actions
 - Experience with DevOps development
-- Building user data analysis infrastructure
-- Growing a toC application
+- Building a data infrastructure using Redshift and Redash
+- Implement practices to improve Developer Experience
+- Service failure detection and visualization of service status using Datadog
+- Implement SRE practices such as SLI/SLO and create mechanisms to improve service reliability
+- Promotion and efficiency improvement of IaC with a focus on Terraform
+- Pipeline construction with ML model including LLM.
 
 ## Programming Language/Framework
 - Web
@@ -81,7 +85,7 @@ I have also served as a technical advisor for several companies on the side, hel
   - Lambda
   - MySQL
   - Datadog
-  - Github actions
+  - GitHub actions
   - Autify
   - Auth0
   - Vercel
