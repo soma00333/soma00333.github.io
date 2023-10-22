@@ -5,8 +5,6 @@ Software Engineer, SRE
 - [X](https://twitter.com/soma00333)
 - [linkedin](https://www.linkedin.com/in/soma-utsumi-278a87178/)
 - [github](https://github.com/soma00333)
-- [offers]( https://offers.jp/pub/w/JrwUBEQsSRUW6XkLjg46jTKt)
-- [zenn](https://zenn.dev/soma00333?tab=scraps)
 
 ## Summary 
 During my student days, I had internships at several startups, where I honed my practical technical skills and business acumen.
