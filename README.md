@@ -1,10 +1,11 @@
 # Soma Utsumi
-Software Engineer, SRE
+Software Engineer, Site Reliability Engineer
 - [mail](soma03432303@gmail.com)
 - [facebook](https://www.facebook.com/soma.utsumi)
 - [X](https://twitter.com/soma00333)
 - [linkedin](https://www.linkedin.com/in/soma-utsumi-278a87178/)
 - [github](https://github.com/soma00333)
+- [huggingface](https://huggingface.co/soma00333)
 
 ## Summary 
 During my student days, I had internships at several startups, where I honed my practical technical skills and business acumen.
