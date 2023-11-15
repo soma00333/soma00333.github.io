@@ -17,8 +17,10 @@ In addition, I'm a founding member of Industry Technology Inc, where I serve as 
 I have also served as a technical advisor for several companies on the side, helping to solve business and technical problems from multiple perspectives.
 
 ## Experience
+- enechain Co., Ltd. \| 2023/11 - now
+  - Side, SRE in SRE Desk
 - Algomatic Inc. \| 2023/08 - now
-  - Side, MLOps in LLM STUDIO 
+  - Side, MLOps engineer in LLM STUDIO 
 - Industry Technology Inc. \| 2019/04 - now
   - Co-Founder, CTO
     - SaaS for building management companies 
