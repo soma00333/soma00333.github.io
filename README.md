@@ -14,7 +14,7 @@ Later, after graduating from the University of Tokyo with a Bachelor of Engineer
 
 In addition, I'm a founding member of Industry Technology Inc, where I serve as CTO. Here I'm driving the development of the SaaS product and providing technical leadership.
 
-I have also served as a technical advisor for several companies on the side, helping to solve business and technical problems from multiple perspectives.
+I have also served as a SRE on the side, helping to solve business and technical problems from multiple perspectives.
 
 ## Experience
 - enechain Co., Ltd. \| 2023/11 - now
@@ -25,10 +25,6 @@ I have also served as a technical advisor for several companies on the side, hel
   - Co-Founder, CTO
     - SaaS for building management companies 
       - Next.js, TypeScript, Go, AWS, gRPC
-    - Mobile application for building management companies
-      - React Native, Expo, TypeScript
-    - Reinforcement inspection system for construction companies using hololenz
-      - Python, OpenCV, Unity, C#
 - Gunosy Inc. \| 2018/04 - 2019/06
   - Data Analyst, Digital Marketer
     - Launch of a media mobile application
@@ -49,16 +45,11 @@ I have also served as a technical advisor for several companies on the side, hel
 - Designing development organizations and creating recruitment strategies
 - Frontend development using React and Next.js
 - Backend development using Go and gRPC
-- Mobile development using ReactNative and Expo
 - Database design using MySQL
-- Selecting and verifying middleware, frameworks, and other technologies
-- Continuous improvement of UI/UX
 - Experience as a tech lead or technical product manager
-- Strengthening the development capabilities of an engineering organization
-- Development and operation using cloud servers such as AWS
+- Development and operation using cloud servers such as AWS and GCP
 - CI/CD using Github actions
 - Experience with DevOps development
-- Building a data infrastructure using Redshift and Redash
 - Implement practices to improve Developer Experience
 - Service failure detection and visualization of service status using Datadog
 - Implement SRE practices such as SLI/SLO and create mechanisms to improve service reliability
@@ -70,21 +61,13 @@ I have also served as a technical advisor for several companies on the side, hel
   - Next.js
   - React
   - TypeScript
-  - gRPC-Web
-- Mobile
-  - Expo
-  - React Native
-  - TypeScript
-  - gRPC-Web
 - Backend
   - Go
-  - Node.js
   - gRPC
-- Other
+- Infra
   - AWS
-  - ECS
-  - Lambda
-  - MySQL
+  - GCP
+- Other
   - Datadog
   - GitHub actions
   - Autify
