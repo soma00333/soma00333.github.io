@@ -19,12 +19,13 @@ I have also served as a SRE on the side, helping to solve business and technical
 ## Experience
 - enechain Co., Ltd. \| 2023/11 - now
   - Side, SRE in SRE Desk
+    - Go, gRPC, GKE, Terraform, Datadog, ArgoCD, PostgreSQL
 - Algomatic Inc. \| 2023/08 - now
-  - Side, MLOps engineer in LLM STUDIO 
+  - Side, MLOps Engineer in LLM STUDIO 
 - Industry Technology Inc. \| 2019/04 - now
   - Co-Founder, CTO
     - SaaS for building management companies 
-      - Next.js, TypeScript, Go, AWS, gRPC
+      - Next.js, TypeScript, Go, AWS, gRPC, Terraform, Datadog, MySQL
 - Gunosy Inc. \| 2018/04 - 2019/06
   - Data Analyst, Digital Marketer
     - Launch of a media mobile application
@@ -57,7 +58,7 @@ I have also served as a SRE on the side, helping to solve business and technical
 - Pipeline construction with ML model including LLM.
 
 ## Programming Language/Framework
-- Web
+- Frontend
   - Next.js
   - React
   - TypeScript
@@ -69,11 +70,9 @@ I have also served as a SRE on the side, helping to solve business and technical
   - GCP
 - Other
   - Datadog
-  - GitHub actions
-  - Autify
-  - Auth0
-  - Vercel
+  - GitHub Actions
   - Terraform
+  - Kubernetes
 
 ## Language
 - Japanese (native)
