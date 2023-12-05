@@ -21,7 +21,8 @@ I have also served as a SRE on the side, helping to solve business and technical
   - Side, SRE in SRE Desk
     - Go, gRPC, GKE, Terraform, Datadog, ArgoCD, PostgreSQL
 - Algomatic Inc. \| 2023/08 - now
-  - Side, MLOps Engineer in LLM STUDIO 
+  - Side, MLOps Engineer in LLM STUDIO
+    - AWS, WandB
 - Industry Technology Inc. \| 2019/04 - now
   - Co-Founder, CTO
     - SaaS for building management companies 
