@@ -79,6 +79,9 @@ I have also served as a SRE on the side, helping to solve business and technical
 - Japanese (native)
 - English (business)
 
+## Qualifications
+- Coffee Specialist
+
 
 
 
