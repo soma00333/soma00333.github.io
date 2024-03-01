@@ -82,6 +82,10 @@ I have also served as a SRE on the side, helping to solve business and technical
 ## Qualifications
 - Coffee Specialist
 
+## Activities
+### 2024
+- [Pod Security AdmissionでPodのSecurityを強化しよう](https://techblog.enechain.com/entry/pod-security-admission)
+
 
 
 
