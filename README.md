@@ -63,9 +63,14 @@ I have also served as a SRE on the side, helping to solve business and technical
   - Next.js
   - React
   - TypeScript
+  - GraphQL
+  - Connect
+  - gRPC-WEB
 - Backend
   - Go
   - gRPC
+  - GraphQL
+  - Connect
 - Infra
   - AWS
   - GCP
@@ -74,6 +79,8 @@ I have also served as a SRE on the side, helping to solve business and technical
   - GitHub Actions
   - Terraform
   - Kubernetes
+  - Argo
+  - WandB
 
 ## Language
 - Japanese (native)
