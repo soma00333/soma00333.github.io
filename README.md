@@ -83,6 +83,7 @@ I have also served as a SRE on the side, helping to solve business and technical
   - Kubernetes
   - Argo
   - WandB
+  - Config Connector
 
 ## Language
 - Japanese (native)
