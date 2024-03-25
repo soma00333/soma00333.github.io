@@ -71,6 +71,8 @@ I have also served as a SRE on the side, helping to solve business and technical
   - gRPC
   - GraphQL
   - Connect
+  - MySQL
+  - PostgreSQL
 - Infra
   - AWS
   - GCP
