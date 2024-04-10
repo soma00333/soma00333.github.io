@@ -1,4 +1,4 @@
 # Short Resume
 [link](https://soma00333.github.io/file/resume.pdf)
 # Detaild Resume
-[link](https://github.com/soma00333/resume/blob/main/README.md)
+[link](https://soma00333.notion.site/Soma-Utsumi-32fff212315a4e9d894b704d52b23074)
